@@ -1,4 +1,4 @@
-//Extra Credit Assignment : Farm Simulation
+//Project : Farm Simulation
 //Author: Sam Black
 
 #include <iostream>
