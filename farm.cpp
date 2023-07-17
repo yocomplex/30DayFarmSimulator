@@ -1,10 +1,3 @@
-/*
-* Name: Joshua Zamora, NSHE: 5006270225, EC ASSIGNMENT 1
-* Description: Simulation of a farm using Virtuals, OOP
-  and Pseudo-randomness
-* Input: implementation files
-* Output: 20 days of farm simulation
-*/
 #include "farm.h"
 #include "farm_object.h"
 #include "debug.h"
