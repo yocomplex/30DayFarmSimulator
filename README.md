@@ -15,4 +15,4 @@ This is a static class that contains helper functions. This class will open a de
 timestamp of when they were logged. The skeleton utilizes this class to open and close a log and write meaningful messages.
 
 Sample Output:
-Use the provided executables *virt_farm.exe* to test. The program can be used with a default seed by simply running it: ./virt_farm. 
+Use the provided executables *virt_farm.exe* as a sample test. The program can be used with a default seed by simply running it: ./virt_farm. 
